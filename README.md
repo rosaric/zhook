@@ -8,7 +8,7 @@ mostly for creating plugin system.
 ## ✨ Features
 
 - **Small**: No dependencies. Size is less than **130 bytes** (minified and gzipped), controlled by [Size Limit](https://github.com/ai/size-limit).
-- **Works on All Runtime**: It doesn't rely on any platform API, so you can use it at browsers, Node.js or Deno.
+- **Works on All Runtimes**: It doesn't rely on any platform API, so you can use it at browsers, Node.js or Deno.
 - **Simple**: Simple API, and doesn't rely on `this`.
 - **TypeScript Friendly**: Source code is written in TypeScript with better types.
 - **Modern**: Shipped as ES Modules, and targets to ES2017.
