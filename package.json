@@ -1,6 +1,6 @@
 {
   "name": "zhook",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tiny hooks library, mostly for plugin system.",
   "author": "Pig Fang <g-plane@hotmail.com>",
   "license": "MIT",
