@@ -1,0 +1,7 @@
+[
+  {
+    "path": "./dist/mod.js",
+    "import": "{ createDispatcher, createSyncFilter, createAsyncFilter }",
+    "limit": "130 B"
+  }
+]
