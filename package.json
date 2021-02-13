@@ -9,6 +9,7 @@
   "exports": {
     ".": "./dist/mod.js"
   },
+  "types": "./dist/mod.d.ts",
   "engines": {
     "node": ">= 12"
   },
