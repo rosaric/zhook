@@ -8,6 +8,7 @@ mostly for creating plugin system.
 ## ✨ Features
 
 - **Small**: No dependencies. Size is less than **130 bytes** (minified and gzipped), controlled by [Size Limit](https://github.com/ai/size-limit).
+- **Fast**: It's performant. [Here](https://github.com/g-plane/events-lib-benchmark) is the benchmark result by comparing with other similar libraries.
 - **Works on All Runtimes**: It doesn't rely on any platform API, so you can use it at browsers, Node.js or Deno.
 - **Simple**: Simple API, and doesn't rely on `this`.
 - **TypeScript Friendly**: Source code is written in TypeScript with better types.
